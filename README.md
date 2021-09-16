@@ -1,5 +1,6 @@
-# Project Name
+# Price Table Page
 > Simple training to built a price table page.
+> To see it in action : https://guilhemcv.github.io/galerie/galerie.html
 
 ## Table of Contents
 * [General Info](#general-information)
